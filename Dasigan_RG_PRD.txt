@@ -1,0 +1,22 @@
+RONALDO'S PRINTING SHOP
+
+https://github.com/ronaldodasigan/PrintingRepo.git
+
+1. Project Overview Describe the application.
+- This project is a FastAPI-based backend application designed to automate order recording and transaction management without the need for a persistent database. By eliminating manual entry, the system ensures that every transaction is captured automatically and processed with high mathematical accuracy.
+
+2. Problem Statement. What problem does the client face?
+- Orders are manually recorded.
+- Computations error occur.
+- Orders may be lost or duplicated. 
+ 
+3. Objectives. List system goals.
+- Accepts printing orders.
+- Computes total cost automatically
+- Allows viewing of orders.
+- Retrieves order information.
+
+4. Users. Primary users of the system. 	
+- customer
+- owner/staff 
+
