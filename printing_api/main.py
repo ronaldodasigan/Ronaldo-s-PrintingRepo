@@ -19,7 +19,7 @@ app.add_middleware(
 
 @app.get("/")
 def root():
-    return {"message": "Ronaldo's Printing Shop - FastAPI prototype. See /docs"}
+    return {"message": "Ronaldo's School Supply - FastAPI prototype."}
 
 
 @app.post("/orders", status_code=201)
